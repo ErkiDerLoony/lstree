@@ -1,0 +1,5 @@
+Usage: lstree FOLDER...
+
+TODO:
+– Relay command line options to ls call.
+– Re-implement in C to increase speed.
